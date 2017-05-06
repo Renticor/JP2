@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493192566 source:d:\users\leszek.samburski\desktop\baza\baza.cpp
+	<iostream>
+	"baza.h"
+
+1493192522 d:\users\leszek.samburski\desktop\baza\baza.h
+	<iostream>
+
+1493192772 source:d:\users\leszek.samburski\desktop\baza\main.cpp
+	<iostream>
+	"baza.h"
+
